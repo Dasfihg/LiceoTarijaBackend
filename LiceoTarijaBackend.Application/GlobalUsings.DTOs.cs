@@ -1,0 +1,31 @@
+// Auto-generado: expone todos los DTOs a todo el proyecto
+// Para revertir, elimina este archivo.
+global using LiceoTarijaBackend.Application.DTOs.ApoderadoEstudiantes;
+global using LiceoTarijaBackend.Application.DTOs.Apoderados;
+global using LiceoTarijaBackend.Application.DTOs.Areas;
+global using LiceoTarijaBackend.Application.DTOs.AsignacionHorarias;
+global using LiceoTarijaBackend.Application.DTOs.Asistencias;
+global using LiceoTarijaBackend.Application.DTOs.Auditorias;
+global using LiceoTarijaBackend.Application.DTOs.BloqueHorarios;
+global using LiceoTarijaBackend.Application.DTOs.CalificacionesExcepciones;
+global using LiceoTarijaBackend.Application.DTOs.CalificacionesVentanas;
+global using LiceoTarijaBackend.Application.DTOs.CursoAreaProfesores;
+global using LiceoTarijaBackend.Application.DTOs.CursoAreas;
+global using LiceoTarijaBackend.Application.DTOs.Cursos;
+global using LiceoTarijaBackend.Application.DTOs.CursosGestion;
+global using LiceoTarijaBackend.Application.DTOs.Dimensions;
+global using LiceoTarijaBackend.Application.DTOs.Domicilios;
+global using LiceoTarijaBackend.Application.DTOs.Estudiantes;
+global using LiceoTarijaBackend.Application.DTOs.Evaluaciones;
+global using LiceoTarijaBackend.Application.DTOs.Gestiones;
+global using LiceoTarijaBackend.Application.DTOs.GestionEstudiantes;
+global using LiceoTarijaBackend.Application.DTOs.GestionProfesores;
+global using LiceoTarijaBackend.Application.DTOs.Notas;
+global using LiceoTarijaBackend.Application.DTOs.Observaciones;
+global using LiceoTarijaBackend.Application.DTOs.Periodos;
+global using LiceoTarijaBackend.Application.DTOs.Personal;
+global using LiceoTarijaBackend.Application.DTOs.Personas;
+global using LiceoTarijaBackend.Application.DTOs.Profesores;
+global using LiceoTarijaBackend.Application.DTOs.UnidadEducativas;
+global using LiceoTarijaBackend.Application.DTOs.Usuarios;
+global using LiceoTarijaBackend.Application.DTOs.UsuariosRoles;
